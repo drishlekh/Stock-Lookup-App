@@ -1,14 +1,14 @@
 # Stock-Lookup-App
 Welcome to the Stock Lookup App! This app allows you to search for stock information by entering the stock symbol. You can view the current price, percentage change, and company name.
 
-Features
-Search for stocks using their symbols (e.g., AAPL for Apple, AMZN for Amazon).
-View real-time stock price, change, and company name.
-A splash screen that welcomes you to the app.
-A progress bar that shows loading status while fetching data.
+Features:
+1.Search for stocks using their symbols (e.g., AAPL for Apple, AMZN for Amazon).
+2.View real-time stock price, change, and company name.
+3.A splash screen that welcomes you to the app.
+4.A progress bar that shows loading status while fetching data.
 
 
-Setting Up the App in Android Studio:
+# Setting Up the App in Android Studio:
 Before you start, make sure you have the following:
 
 Android Studio: This is the IDE we use to develop Android apps. You can download it from here.
@@ -21,7 +21,7 @@ Java Development Kit (JDK): Make sure you have JDK 8 or higher installed.
 4.Run the App in the emulator or any android device.
 
 
-Using the APK File:
+# Using the APK File:
 1. Enable Unknown Sources
 Go to your device's Settings.
 Navigate to Security or Privacy.
@@ -36,8 +36,8 @@ Follow the prompts to install the app.
 Once installed, you can find the Stock Lookup App in your app drawer. Tap to open it and start using it.
 
 
-Troubleshooting
-No Internet Connection: Make sure your device or emulator is connected to the internet.
-Invalid Stock Symbol: If you enter a stock symbol that doesn't exist, the app will show an error message.
+# Troubleshooting:
+1. No Internet Connection: Make sure your device or emulator is connected to the internet.
+2. Invalid Stock Symbol: If you enter a stock symbol that doesn't exist, the app will show an error message.
 
 
