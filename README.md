@@ -2,10 +2,10 @@
 Welcome to the Stock Lookup App! This app allows you to search for stock information by entering the stock symbol. You can view the current price, percentage change, and company name.
 
 # Features:
-1.Search for stocks using their symbols (e.g., AAPL for Apple, AMZN for Amazon).
-2.View real-time stock price, change, and company name.
-3.A splash screen that welcomes you to the app.
-4.A progress bar that shows loading status while fetching data.
+1. Search for stocks using their symbols (e.g., AAPL for Apple, AMZN for Amazon)
+2. View real-time stock price, change, and company name
+3. A splash screen that welcomes you to the app.
+4. A progress bar that shows loading status while fetching data.
 
 
 # Setting Up the App in Android Studio:
